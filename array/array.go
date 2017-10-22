@@ -43,10 +43,14 @@ func main() {
 	*array8[0] = 0
 	*array8[1] = 1
 
+	// 数组是复制的，原来的数组没有修改。
 	array9 := [5]int{1: 2, 3: 4}
 	modifyArray(array9)
 	fmt.Println(array9)
+
 	fmt.Println("-------------")
+
+	// 传递数组的指针，这样复制的大小只是一个数组类型的指针大小.
 	modifyArray2(&array9)
 	fmt.Println(array9)
 }
