@@ -7,8 +7,9 @@
 - [00包管理](https://github.com/yangwenmai/go-in-action/tree/master/00import/)
 - [01数组](https://github.com/yangwenmai/go-in-action/tree/master/01array/)
 - [02切片](https://github.com/yangwenmai/go-in-action/tree/master/02slice/)
-- [03切片](https://github.com/yangwenmai/go-in-action/tree/master/03map/)
+- [03Map](https://github.com/yangwenmai/go-in-action/tree/master/03map/)
 - [04类型](https://github.com/yangwenmai/go-in-action/tree/master/04types/)
 - [05函数方法](https://github.com/yangwenmai/go-in-action/tree/master/05functions/)
-- [06接口](https://github.com/yangwenmai/go-in-action/tree/master/06interface/)
+- [06接口](https://github.com/yangwenmai/go-in-action/tree/master/06interfaces/)
+- [07内嵌类型](https://github.com/yangwenmai/go-in-action/tree/master/07type_embedding/)
 
