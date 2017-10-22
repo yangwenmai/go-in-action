@@ -1,3 +1,4 @@
+// Package example is a example.
 package example
 
 import (
@@ -10,5 +11,5 @@ func Add(a, b int) int {
 }
 
 func main() {
-	fmt.Println(Add(1, 3))
+	fmt.Println(Add(3, 4))
 }
