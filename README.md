@@ -12,4 +12,5 @@
 - [05函数方法](https://github.com/yangwenmai/go-in-action/tree/master/05functions/)
 - [06接口](https://github.com/yangwenmai/go-in-action/tree/master/06interfaces/)
 - [07内嵌类型](https://github.com/yangwenmai/go-in-action/tree/master/07type_embedding/)
+- [08标记符的可见性](https://github.com/yangwenmai/go-in-action/tree/master/08identifier_export/)
 
