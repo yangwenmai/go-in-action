@@ -14,4 +14,11 @@
 - [07内嵌类型](https://github.com/yangwenmai/go-in-action/tree/master/07type_embedding/)
 - [08标记符的可见性](https://github.com/yangwenmai/go-in-action/tree/master/08identifier_export/)
 - [09并发](https://github.com/yangwenmai/go-in-action/tree/master/09goroutine/)
+- [10通道](https://github.com/yangwenmai/go-in-action/tree/master/10channel/)
 
+# 参考资料 #
+
+1. [Go In Action](http://goinactionbook.com)
+2. [Go In Action Samples](https://github.com/goinaction/code)
+3. [飞雪无情 - Go 系列](http://www.flysnow.org/tags/Go/)
+4. [英文原版购书地址](https://www.manning.com/books/go-in-action)
