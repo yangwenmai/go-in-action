@@ -5,7 +5,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/yangwenmai/go-in-action/functions/lib"
+	"github.com/yangwenmai/go-in-action/05functions/lib"
 	"log"
 	"os"
 )
