@@ -15,6 +15,9 @@
 - [08标记符的可见性](https://github.com/yangwenmai/go-in-action/tree/master/08identifier_export/)
 - [09并发](https://github.com/yangwenmai/go-in-action/tree/master/09goroutine/)
 - [10通道](https://github.com/yangwenmai/go-in-action/tree/master/10channel/)
+- [11资源池](https://github.com/yangwenmai/go-in-action/tree/master/11pool/)
+- [12锁](https://github.com/yangwenmai/go-in-action/tree/master/12lock/)
+- [13日志](https://github.com/yangwenmai/go-in-action/tree/master/13log/)
 
 # 参考资料 #
 
